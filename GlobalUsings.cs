@@ -1,9 +1,0 @@
-global using Microsoft.Build.Construction;
-global using Microsoft.Build.Definition;
-global using Microsoft.Build.Evaluation;
-global using System.Collections.Generic;
-global using System.Linq;
-global using System.Text;
-global using System.Threading.Tasks;
-global using System;
-global using System.Xml;
